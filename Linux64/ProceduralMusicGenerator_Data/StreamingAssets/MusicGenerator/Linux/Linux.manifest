@@ -1,13 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1454323793
+CRC: 2803204226
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: GeneratorMixer
+      Name: generatormixer
       Dependencies: {}
     Info_1:
-      Name: InstrumentUIObject
-      Dependencies: {}
-    Info_2:
-      Name: TestPotato
+      Name: instrumentuiobject
       Dependencies: {}
